@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.menu-section-heading {
+    color: #d5dce1;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #d4d7db;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+
+}
+
+.breaks {
+
+    font-size: 13px;
+    color: rgb(192, 233, 233);
+
+}
+
+.detailed-view-paragraph-container {
+    font-family: roboto;
+    font-size: 13px;
+    color: #ffffff;
+
+}
+
+.menu-item-card1 {
+    border-radius: 16px;
+
+}
+
+.menu-card-title1 {
+    color: #6ba4ef;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: 500;
+    margin-top: 24px;
+}
